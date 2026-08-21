@@ -12,4 +12,4 @@ Este projeto tem como objetivo analisar a performance de distribuição de conte
 - **Git & GitHub:** Versionamento e documentação do projeto.
 
 ---
-*Status: Em desenvolvimento (Pergunta 1 concluída)*
+*Status: Em desenvolvimento (Pergunta 2 concluída)*
