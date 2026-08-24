@@ -10,6 +10,3 @@ Este projeto tem como objetivo analisar a performance de distribuição de conte
 - **SQL (PostgreSQL):** Tratamento, agregação de dados e cálculo de KPIs.
 - **Power BI:** Visualização interativa e storytelling de dados.
 - **Git & GitHub:** Versionamento e documentação do projeto.
-
----
-*Status: Em desenvolvimento (Pergunta 2 concluída)*
