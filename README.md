@@ -80,6 +80,10 @@ As queries SQL serviram de referência para validar medidas DAX nos dashboards.
 
 Essas limitações estão registradas para evitar superinterpretação dos resultados.
 
+## Autor
+
+**Davi Alcântara**  
+[LinkedIn](https://www.linkedin.com/in/davi-aguiar/) · [GitHub](https://github.com/davialcantara03)
 ---
 
 ## Estrutura do repositório
@@ -89,9 +93,4 @@ cec-informs-analytics/
 ├── estudo_1_impacto_jogos/    # pipeline Python, SQL e dashboard
 ├── estudo_2_editorial/        # SQL, dashboard e README do estudo
 ├── estudo_3_dias_virais/      # notebooks, dashboard e dados
-└── README.md
 
-## Autor
-
-**Davi Aguiar**  
-[LinkedIn](https://www.linkedin.com/in/davi-aguiar/) · [GitHub](https://github.com/davialcantara03)
